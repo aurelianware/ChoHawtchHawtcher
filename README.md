@@ -1,4 +1,4 @@
-# PRIVASEE AI
+# CHO Hawtch-Hawtcher
 
 ## The Sentinel — AI-Powered Edge Security Monitoring Platform
 
